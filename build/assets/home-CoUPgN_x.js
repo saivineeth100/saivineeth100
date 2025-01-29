@@ -1,0 +1,1 @@
+import{w as o}from"./with-props-DIjtTHdS.js";import{l as t}from"./chunk-SYFQ2XB5-D3hMhDC0.js";function m(e){return[{title:"Sai Vineeth - Full Stack Developer"},{name:"description",content:"Welcome to React Router!"}]}const s=o(function(){return t.jsx(t.Fragment,{children:"Test Page"})});export{s as default,m as meta};
